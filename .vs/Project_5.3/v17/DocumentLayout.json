@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Project_5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026EE821-883D-4226-BD43-5E4A831B9BE0}|Project_5.3\\Project_5.3.vcxproj|C:\\Users\\admin\\source\\repos\\Project_5.3\\Project_5.3\\lab_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{026EE821-883D-4226-BD43-5E4A831B9BE0}|Project_5.3\\Project_5.3.vcxproj|solutionrelative:Project_5.3\\lab_5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8681CC6B-E652-4ECB-9F62-38F812E14A30}|UnitTest3\\UnitTest3.vcxproj|C:\\Users\\admin\\source\\repos\\Project_5.3\\UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8681CC6B-E652-4ECB-9F62-38F812E14A30}|UnitTest3\\UnitTest3.vcxproj|solutionrelative:UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest3.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_5.3\\UnitTest3\\UnitTest3.cpp",
+              "RelativeDocumentMoniker": "UnitTest3\\UnitTest3.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.3\\UnitTest3\\UnitTest3.cpp",
+              "RelativeToolTip": "UnitTest3\\UnitTest3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T17:05:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Project_5.3\\Project_5.3\\lab_5.3.cpp",
+              "RelativeDocumentMoniker": "Project_5.3\\lab_5.3.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Project_5.3\\Project_5.3\\lab_5.3.cpp",
+              "RelativeToolTip": "Project_5.3\\lab_5.3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T07:35:31.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
