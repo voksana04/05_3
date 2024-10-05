@@ -12,9 +12,9 @@ namespace UnitTest3
 		
 		TEST_METHOD(TestMethod1)
 		{
-			double k = 1.0;
-			double result = z(2 * k + 1) - z(2 * k - 1) * z(2 * k - 1) + sqrt(z(k));
-			double expected = z(2 * k + 1) - z(2 * k - 1) * z(2 * k - 1) + sqrt(z(k));
+			double x = 1.0;
+			double result = z(x);
+			double expected = z(cos(x) + 1) / (sin(x) * sin(x) + exp(x));
 
 			Assert::AreEqual(expected, result, 0.0001);  
 		}
